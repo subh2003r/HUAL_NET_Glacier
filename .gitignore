@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Research data
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.tif
+*.tiff
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Generated results
+results/*
+models/*
+!models/.gitkeep
+!results/.gitkeep
+
+# Local machine paths
+scratch/
+data/local/
