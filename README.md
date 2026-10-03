@@ -154,17 +154,7 @@ python scripts/run_hual.py \
 The output directory contains selected patch indices, uncertainty scores,
 the HUAL training arrays, the fine-tuned checkpoint and a JSON metrics file.
 
-## Reproducibility
-
-Please read `docs/REPRODUCIBILITY.md` before submission. It records the exact
-workflow represented by the supplied files and also lists the items that still
-need to be fixed or documented.
-
 ## License
 
 The code is released under the MIT License. See `LICENSE`.
 
-## Citation
-
-A `CITATION.cff` file is included. Replace the placeholder DOI information after
-the paper and repository have their final bibliographic details.
